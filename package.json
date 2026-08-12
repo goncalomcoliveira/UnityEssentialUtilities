@@ -1,0 +1,13 @@
+{
+  "name": "com.goncalomcoliveira.essential-utilities",
+  "version": "1.0.0",
+  "displayName": "Essential Utilities",
+  "description": "A collection of useful generic utilities for any Unity projects.",
+  "unity": "6000.3",
+  "documentationUrl": "https://github.com/goncalomcoliveira/UnityEssentialUtilities#readme",
+  "author": {
+    "name": "Gonçalo Oliveira",
+    "email": "goncalo.oliveira.creative@gmail.com",
+    "url": "https://github.com/goncalomcoliveira"
+  }
+}
