@@ -1,2 +1,2 @@
-# UnityEssentialHelpers
-A compilation of useful generic helpers for any Unity projects.
+# UnityEssentialUtilities
+A collection of useful generic utilities for any Unity projects.
